@@ -4,14 +4,12 @@ This assignment is a "warm-up" exercise. You will edit your first webpage and th
 
 Refer to [Getting started with node.js on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction).
 
-Treat this assignment as a chance to get up to speed on Git, GitHub, and Heroku. If you already know these, great. However, if you're new to them, spend several hours practicing, experimenting, and reading documentation. In other words, don't just get your website up and done. You will need skill with these tools throughout the rest of the course.
-
 ## Assignment details
 
 Do the following to complete this assignment:
 
 1. Since this is the first assignment, you should set up your repository for all of your exercises. In order to do that, you should Fork this repository. Forking a repository simply creates a copy that lives under your account. You want this copy so you have access to commit and push changes to it.
-	* This repository contains a number of files:
+	* This exercise contains a number of files:
 		* `server.js` is the code for the web server
 		* `Procfile` is used for Heroku deployment
 		* `index.html` is your HTML file, most of your changes for this exercise will be done here
