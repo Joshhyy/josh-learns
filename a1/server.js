@@ -7,7 +7,7 @@ var server = http.createServer(function(req, res) {
 	var uri = url.parse(req.url)
 
 	switch(uri.pathname) {
-		case '/index.html':
+		case '/':
 			sendFile(res, 'index.html', 'text/html')
 			break
 		default:
